@@ -1,13 +1,20 @@
+button {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
-    width:820px;
+    margin-top: 30px;
+    width:800px;
     gap: 0px;
     flex-wrap: wrap;
 }
 
-grid {
+.grid {
     display: flex;
     flex-wrap: nowrap;
     width: 50px;
